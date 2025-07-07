@@ -1,0 +1,30 @@
+[2025-07-06T23:58:12.701Z] - 0 usuários encontrados!
+[2025-07-06T23:58:12.795Z] - Usuário inserido com sucesso: 686b0d944c18a609e00f82e0
+[2025-07-06T23:58:19.585Z] - 1 usuários encontrados!
+[2025-07-06T23:58:19.652Z] - Login bem-sucedido para "undefined".
+[2025-07-07T00:02:44.878Z] - 0 usuários encontrados!
+[2025-07-07T00:02:44.960Z] - Usuário inserido com sucesso: 686b0ea42f0dc21a48146228
+[2025-07-07T00:02:52.514Z] - 1 usuários encontrados!
+[2025-07-07T00:02:52.582Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:05:53.232Z] - 1 usuários encontrados!
+[2025-07-07T00:05:53.305Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:11:49.050Z] - 1 usuários encontrados!
+[2025-07-07T00:11:49.130Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:12:50.278Z] - 1 usuários encontrados!
+[2025-07-07T00:12:50.345Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:13:04.868Z] - 0 usuários encontrados!
+[2025-07-07T00:13:04.941Z] - Usuário inserido com sucesso: 686b1110f3f77b17f1525131
+[2025-07-07T00:13:14.491Z] - 1 usuários encontrados!
+[2025-07-07T00:13:14.564Z] - Login bem-sucedido para "teste2222".
+[2025-07-07T00:18:41.314Z] - 1 usuários encontrados!
+[2025-07-07T00:18:41.393Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:19:12.880Z] - 1 usuários encontrados!
+[2025-07-07T00:19:12.948Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:24:32.159Z] - 1 usuários encontrados!
+[2025-07-07T00:24:32.233Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:24:46.227Z] - 1 usuários encontrados!
+[2025-07-07T00:24:46.294Z] - Login bem-sucedido para "teste44".
+[2025-07-07T00:25:11.040Z] - 0 usuários encontrados!
+[2025-07-07T00:25:11.118Z] - Usuário inserido com sucesso: 686b13e7f59b071d9c043b57
+[2025-07-07T00:25:31.895Z] - 1 usuários encontrados!
+[2025-07-07T00:25:31.963Z] - Login bem-sucedido para "teste88".
