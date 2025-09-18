@@ -33,7 +33,7 @@ Este projeto é um backend robusto para autenticação de usuários, construído
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto_2_backend.git](https://github.com/seu-usuario/projeto_2_backend.git)
+    git clone https://github.com/GatutiaDev/Projeto_2_BackEnd.git
     cd projeto_2_backend
     ```
 
